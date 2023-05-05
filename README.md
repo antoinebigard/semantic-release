@@ -22,7 +22,7 @@
     <img alt="npm beta version" src="https://img.shields.io/npm/v/semantic-release/beta.svg">
   </a>
 </p>
-
+!
 **semantic-release** automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package.
 
 This removes the immediate connection between human emotions and version numbers, strictly following the [Semantic Versioning](http://semver.org) specification and communicating the **impact** of changes to consumers.
