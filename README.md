@@ -29,7 +29,7 @@ This removes the immediate connection between human emotions and version numbers
 
 > Trust us, this will change your workflow for the better. – [egghead.io](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release)
 
-## Highlights
+## Highlightsdvdvd
 
 - Fully automated release
 - Enforce [Semantic Versioning](https://semver.org) specification
