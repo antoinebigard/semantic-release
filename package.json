@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release",
+  "name": "antoinebigard-semantic-release",
   "description": "Automated semver compliant package publishing",
   "version": "0.0.0-development",
   "type": "module",
@@ -117,13 +117,9 @@
     "trailingComma": "es5"
   },
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/semantic-release/semantic-release.git"
-  },
+  "repository": "https://github.com/antoinebigard/semantic-release.git",
   "scripts": {
     "codecov": "codecov -f coverage/coverage-final.json",
     "lint": "prettier --check \"*.{js,json,md}\" \".github/**/*.{md,yml}\" \"docs/**/*.md\" \"{bin,lib,test}/**/*.js\"",
